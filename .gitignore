@@ -1,0 +1,16 @@
+# Ignore credentials
+config/credentials.json
+config/api_key.txt
+
+# Ignore sensitive or large data
+data/
+output/
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
